@@ -1,6 +1,12 @@
+*{
+ 
+  background-color: #EFEFEF
+}
+
 .App {
   font-family: "Montserrat", sans-serif;
   text-align: center;
+ 
 }
 .btn {
   cursor: pointer;
@@ -8,12 +14,12 @@
   margin: 0.5rem 1rem;
   border: 1px solid gray;
   border-radius: 1rem;
-  background-color: #1982c4;
+  background-color: #042a42;
   color: #fff;
 }
 .btn:hover {
   background-color: #fff;
-  color: #1982c4;
+  color: #0b649b;
 }
 .btn:focus {
   outline: none;

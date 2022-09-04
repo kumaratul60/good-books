@@ -82,7 +82,7 @@ export default function App() {
   return (
     <>
       <div className="App">
-        <h1>Good Books</h1>
+        <h1>📚goodBooks</h1>
         <p>
           Checkout my favorite books of below genre. Select a genre to know my
           favorite books of that genre.
